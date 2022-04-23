@@ -17,6 +17,9 @@ function Menu(props) {
         <div className="actions">
             <button className="button btn-blue">Another button</button>
         </div>
+        <div className="actions">
+            <button className="button btn-blue">Third button</button>
+        </div>
       </div>
     </div>
   );
