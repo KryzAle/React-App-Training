@@ -11,7 +11,7 @@ class App extends React.Component {
         {
           id: 1,
           rating: 5,
-          title: "Harry Punkster y la piedra filosofal",
+          title: "Harry Punkster y la stone filosofal",
           image: "https://books.google.com/books/content/images/frontcover/cHJvZmV0bzkC?fife=w200-h300",
         },
         {
