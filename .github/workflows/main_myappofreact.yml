@@ -58,4 +58,4 @@ jobs:
           app-name: 'myappofreact'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B0CD3C237CC4EA8B6EF27623C9EB110 }}
-          package: ./React-App-Training
+          package: .
